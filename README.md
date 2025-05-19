@@ -19,11 +19,9 @@ Antes de começar, você precisa ter o [Node.js](https://nodejs.org/) instalado 
     npm install
     ```
 
-Este projeto utiliza apenas a biblioteca prompt-sync para permitir entrada de dados pelo terminal.
-
 ## Como executar os exercícios
 
-Os arquivos estão localizados na raiz do projeto, nomeados de ex01.js até ex15.js.
+Os arquivos estão localizados no projeto, nomeados de ex01.js até ex15.js.
 
 Para executar qualquer exercício, use o comando:
 
